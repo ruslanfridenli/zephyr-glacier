@@ -24,3 +24,4 @@
 - patch 23 — zephyr glacier — splitwise local
 - patch 24 — zephyr glacier — splitwise local
 - patch 25 — zephyr glacier — splitwise local
+- patch 26 — zephyr glacier — splitwise local
